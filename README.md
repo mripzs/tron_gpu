@@ -1,5 +1,5 @@
 # tron_gpu
-tron usdt 波场靓号生成，地址模仿，使用gpu加速
+tron usdt 波场靓号生成，地址模仿，使用gpu加速，中文版
 
 ## 下载地址 https://github.com/mripzs/tron_gpu/releases/download/gpu/tron-gpu.zip
 
