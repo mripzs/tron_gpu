@@ -1,7 +1,12 @@
 # tron_gpu
-tron usdt 波场靓号生成，地址模仿，使用gpu加速，中文版
+tron usdt 波场靓号生成，地址模仿，使用gpu加速
+
+# GPU算法优化
+独家GPU算法优化，比市面上同类产品速度快约50%，可自行测试。
 
 ## 下载地址 https://github.com/mripzs/tron_gpu/releases/download/gpu/tron-gpu.zip
+
+![](1.png)
 
 ```
 无需联网，本地生成，可拔掉网线使用，gpu算法优化，运算速度更快!
